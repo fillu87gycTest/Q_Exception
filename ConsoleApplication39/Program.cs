@@ -1,4 +1,31 @@
-﻿using System;
+﻿/*
+ * Success
+ * Success
+ * Success
+ * Success
+ * Success
+ * Success
+ * Success
+ * Success
+ * Success
+ * Success
+ * Out (Full) of range : 10
+ * Get data : A
+ * Get data : B
+ * Get data : C
+ * Get data : D
+ * Get data : E
+ * Get data : F
+ * Get data : G
+ * Get data : H
+ * Get data : I
+ * Get data : J
+ * out (Empty) of range : 10
+ * 続行するには何かキーを押してください . . .
+ * 
+ */
+
+using System;
 
 class Program
 {
